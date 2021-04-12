@@ -1,7 +1,7 @@
 
-timestamp =  1617100197
+  timestamp =  1618199345
 
-  signatures =  
+  [signatures]
     anim_overlays =  10624
     clientstate_choked_commands =  19760
     clientstate_delta_ticks =  372
@@ -47,7 +47,7 @@ timestamp =  1617100197
     dwZoomSensitivityRatioPtr =  14249328
     dwbSendPackets =  881818
     dwppDirect3DDevice9 =  684112
-    find_hud_element =  729211680
+    find_hud_element =  790487840
     force_update_spectator_glow =  3856738
     interface_engine_cvar =  256492
     is_c4_owner =  3908656
@@ -60,7 +60,7 @@ timestamp =  1617100197
     set_abs_angles =  1964480
     set_abs_origin =  1964032
   
-  netvars =  
+    [netvars] 
     cs_gamerules_data =  0
     m_ArmorValue =  45944
     m_Collision =  800
