@@ -60,7 +60,7 @@ model_ambient_min = 5840988
 set_abs_angles = 1964480
 set_abs_origin = 1964032
 
-[netvars] 
+[netvars]
 cs_gamerules_data = 0
 m_ArmorValue = 45944
 m_Collision = 800
